@@ -49,3 +49,31 @@ to be considered in the future.
 
 ![alt](readme-images/)
 
+### Scope Plane
+
+Minimal Viable Product for this project is a website with at least the below features;
+
+- Navigation Bar on desktop and tablet screen, hamburger on mobile.
+- Contact submission form
+- Social Media Links
+- Interactivity unfolding the list of festivals for each country.
+- Google Maps API showing location for each festivals.
+- Buttons linking to tickets and flight reservations.
+- Email JS API to submit contact form.
+
+### Structure Plane
+- The website has a landing main page and a "Get in touch" page.
+- The user can navigate through the different sections of the landing and "Get in touch"page
+using a navigation bar on desktop and tablet screen versions.
+- The user can navigate through the different sections of the landing and "Get in touch"page
+using a hamburger on mobile screen versions.
+- The landing page is composed of a header, navigation bar, hero image, country section and a footer.
+- The "Get in touch" page is composed of a header, navigation bar, contact submission form and a footer.
+
+### Skeleton Plane
+- Mobile Screen
+    - ![alt](wireframes/)
+- Tablet Screen
+    - ![alt](wireframes/)
+- Desktop Screen
+    - ![alt](wireframes/)
