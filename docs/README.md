@@ -77,3 +77,13 @@ using a hamburger on mobile screen versions.
     - ![alt](wireframes/)
 - Desktop Screen
     - ![alt](wireframes/)
+
+### Surface Plane
+This website aims to give a festival lights feeling.
+Creative design has been applied in order to adapt to this look and feel.
+ 
+- Colors: 
+- Fonts: 
+- Images
+    - The Hero image aims to set the color palette of the website and give a festival crowd feeling.
+    - Country images aim to allow the user to identify hich country is going to be selected..
