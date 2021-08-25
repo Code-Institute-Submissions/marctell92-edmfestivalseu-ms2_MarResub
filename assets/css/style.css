@@ -53,3 +53,33 @@ i {
     padding: 0 7px;
 }
 /* ///-------------------HERO HEADER */
+/* ----------------------NAVBAR */
+#navbar-brand-title {
+    padding-left: 10px;
+    color: #dedede;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+}
+
+.navbar {
+    background-color:  rgba(12, 12, 12, 0.6);
+}
+
+.nav-link {
+    color: #dedede;
+    font-weight: 600;
+}
+
+.navbar-toggler i {
+    color: #dedede;
+    font-size: x-large;
+}
+
+.active, .nav-item:hover {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #dedede;
+}
+/* ///-------------------NAVBAR */
