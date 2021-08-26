@@ -18,6 +18,19 @@ body {
     background-color: #4e1f32;
 }
 
+.container-get-in-touch {
+    height: 100vh;
+    background: no-repeat center center;
+    background: url('../images/header-image.jpg ') no-repeat bottom right scroll;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+
 /* ----------------------HERO HEADER */
 .hero-header-title h1 {
     color: #dedede;
@@ -171,3 +184,31 @@ footer i{
 }
 
 /* ///-------------------FOOTER SECTION */
+/* ----------------------GET IN TOUCH SECTION */
+.get-in-touch{
+    color: #dedede;
+    font-size: 180%;
+    text-shadow: 5px 5px 5px #000000;
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    background: radial-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2));
+    margin-top: 15%;
+}
+
+.form-control {
+    margin: 20px 0;
+    font-family: 'Bai Jamjuree', sans-serif;
+    background-color: #4e1f32;
+    color: #FFFFFF;
+    border: 1px solid #dedede;
+}
+
+.submit-button {
+    background-color: #e78ba8;
+    color: #4e1f32;
+    border: 1px solid #4e1f32;
+    font-weight: 900;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+/* ///-------------------GET IN TOUCH SECTION */
