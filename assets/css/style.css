@@ -112,9 +112,12 @@ a:hover {
 
 .country-card h4 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 82px;
+    font-size: 9vw;
     text-align: right;
     float: right;
+    position: relative;
+    padding-top: 7%;
+    padding-right: 5%;
 }
 
 .img-fluid {
