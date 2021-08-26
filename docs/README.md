@@ -2,7 +2,7 @@
 
 ![alt](readme-images/)
 
-[Visit site here](https://marctell92.github.io/boundless/)
+[Visit site here](https://marctell92.github.io/)
 
 
 This website offers basic information about the main EDM festivals around Europe such as the location, dates and artists. It aims to be a guide to all Electronic Dance Music fans who are in search of the main events in the continent.
