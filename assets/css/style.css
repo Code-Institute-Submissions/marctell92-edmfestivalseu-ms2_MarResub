@@ -148,6 +148,7 @@ a:hover {
     min-height: 120px;
     color: white;
     border-radius: 7%;
+    display: none;
 }
 
 .festival-card p{
