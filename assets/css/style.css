@@ -140,6 +140,64 @@ a:hover {
     width: 25vw;
 }
 /* ///-------------------COUNTRY-SECTION */
+/* ----------------------FESTIVAL CARDS */
+.festival-card {
+    background: linear-gradient(135deg, rgba(12, 12, 12, 0.7), rgba(12, 12, 12, 0.9));
+    box-shadow: 0 2px 4px 0 white;
+    margin: 10px 0;
+    min-height: 120px;
+    color: white;
+    border-radius: 7%;
+}
+
+.festival-card p{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.festival-card h4 {
+    padding: 5% 5% 0;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.img-fluid {
+    max-width: 90%;
+    position: relative;
+    left: 5%;
+    padding: 15px 0;
+    height: 215px;
+    width: 245px;
+}
+
+.festival-card hr {
+    margin: 0;
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
+/* ///-------------------FESTIVAL CARDS */
+/* ----------------------FESTIVAL BUTTONS */
+/* ----------------------TEAM BUTTONS */
+.btn-primary {
+    background-color: #e78ba8;
+    color: #4e1f32;
+    border-color: #dedede;
+}
+
+.festival-buttons a {
+    color: #4e1f32;
+    text-decoration: none;
+}
+
+#festival-buttons {
+    color: #4e1f32;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+/* ///-------------------TEAM BUTTONS */
+/* ///-------------------FESTIVAL BUTTONS */
+
 /* ----------------------FOOTER SECTION */
 footer {
     background: #e78ba8;
