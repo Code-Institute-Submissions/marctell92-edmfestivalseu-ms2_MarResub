@@ -134,12 +134,10 @@ a:hover {
 }
 
 .img-fluid {
-    max-width: 90%;
     position: relative;
     left: 5%;
     padding: 15px 0;
-    height: 215px;
-    width: 245px;
+    width: 25vw;
 }
 /* ///-------------------COUNTRY-SECTION */
 /* ----------------------FOOTER SECTION */
