@@ -187,7 +187,6 @@ a:hover {
 }
 /* ///-------------------FESTIVAL CARDS */
 /* ----------------------FESTIVAL BUTTONS */
-/* ----------------------TEAM BUTTONS */
 .btn-primary {
     background-color: #e78ba8;
     color: #4e1f32;
@@ -207,7 +206,16 @@ a:hover {
 
 /* ///-------------------FESTIVAL BUTTONS */
 /* -------------------MAPS */
-div#belgium-map {min-height: 360px;}
+.map {
+    display: none;
+}
+div#belgium-map {
+    min-height: 360px;
+}
+
+.map-padding {
+    padding-left: 40px;
+}
 
 /* ///-------------------MAPS */
 
