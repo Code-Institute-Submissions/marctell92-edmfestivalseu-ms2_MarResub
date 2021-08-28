@@ -118,7 +118,7 @@ a:hover {
     background: linear-gradient(135deg, rgba(12, 12, 12, 0.7), rgba(12, 12, 12, 0.9));
     box-shadow: 0 2px 4px 0 white;
     margin: 10px 0;
-    min-height: 120px;
+    min-height: 80px;
     color: #dedede;
     border-radius: 7%;
 }
@@ -129,15 +129,23 @@ a:hover {
     text-align: right;
     float: right;
     position: relative;
-    padding-top: 7%;
+    padding-top: 3%;
     padding-right: 5%;
 }
 
-.img-fluid {
+.country-img-fluid {
     position: relative;
     left: 5%;
     padding: 15px 0;
-    width: 25vw;
+    max-width: 15vw;
+    max-height: 15vw;
+}
+
+@media screen and (max-width: 480px) {
+    .country-img-fluid {
+        max-width: 25vw;
+        max-height: 25vw;
+        }
 }
 /* ///-------------------COUNTRY-SECTION */
 /* ----------------------FESTIVAL CARDS */
