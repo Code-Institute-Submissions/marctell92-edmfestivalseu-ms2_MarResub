@@ -196,8 +196,11 @@ a:hover {
     padding-bottom: 5%;
 }
 
-/* ///-------------------TEAM BUTTONS */
 /* ///-------------------FESTIVAL BUTTONS */
+/* -------------------MAPS */
+div#belgium-map {min-height: 360px;}
+
+/* ///-------------------MAPS */
 
 /* ----------------------FOOTER SECTION */
 footer {
