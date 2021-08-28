@@ -29,7 +29,7 @@ function initMap() {
 
 // CROATIA MAP
 function initMap() {
-    var map = new google.maps.Map(document.getElementById("france-map"), {
+    var map = new google.maps.Map(document.getElementById("croatia-map"), {
         zoom: 3,
         center: {
             lat: 49.23247309150677,
