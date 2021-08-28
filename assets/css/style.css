@@ -206,10 +206,8 @@ a:hover {
 
 /* ///-------------------FESTIVAL BUTTONS */
 /* -------------------MAPS */
-.map {
-    display: none;
-}
-div#belgium-map {
+
+div#map {
     min-height: 360px;
 }
 
