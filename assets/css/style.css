@@ -212,7 +212,9 @@ div#map {
 }
 
 .map-padding {
-    padding-left: 40px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
 }
 
 /* ///-------------------MAPS */
