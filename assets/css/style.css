@@ -154,6 +154,7 @@ a:hover {
 .festival-card p{
     margin-right: 5%;
     margin-left: 5%;
+    min-height: 95px;
 }
 
 .festival-card h4 {
