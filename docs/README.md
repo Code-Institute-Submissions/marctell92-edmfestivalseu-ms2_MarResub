@@ -138,18 +138,18 @@ Creative design has been applied in order to adapt to this look and feel.
 ##### As a First Time Visitor, I want to...
 - Easily understand the content in order to find the information I'm looking for.
     - Webpage is well structured and sections are presented clearly to the user.
-![alt](readme-images/hero-header.png)
-![alt](readme-images/countries-section.png)
-![alt](readme-images/footer.png)
+![alt](readme-images/hero-header.JPG)
+![alt](readme-images/countries-section.JPG)
+![alt](readme-images/footer.JPG)
 - Easily navigate and find content through the website in an user-friendly way.
     - Navigation bar allows user to move through different sections of the website.
-![alt](readme-images/nav-bar.png)
+![alt](readme-images/nav-bar.JPG)
 - Find visual resources that support and complement the content.
     - Images are displayed to support text.
-![alt](readme-images/festival-card.png)
+![alt](readme-images/festival-card.JPG)
 - Have the possibility to get in touch with EDMfestivalsEU and have access to their Social Media links.
     - Get in touch page accessible from navigation bar.
-![alt](readme-images/nav-bar.png)
+![alt](readme-images/nav-bar.JPG)
 
 ##### As a Returning Visitor, I want to...
 - Find the familiar interface and layout which I already experienced.
