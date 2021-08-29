@@ -30,7 +30,7 @@ body {
     font-family: 'Chakra Petch', sans-serif;
 
 }
-
+/* ///-------------------CONTAINERS */
 /* ----------------------HERO HEADER */
 .hero-header-title h1 {
     color: #dedede;
@@ -162,7 +162,7 @@ a:hover {
 .festival-card p{
     margin-right: 5%;
     margin-left: 5%;
-    min-height: 95px;
+    min-height: 120px;
 }
 
 .festival-card h4 {
@@ -206,7 +206,6 @@ a:hover {
 
 /* ///-------------------FESTIVAL BUTTONS */
 /* -------------------MAPS */
-
 div#map {
     min-height: 360px;
 }
@@ -214,7 +213,7 @@ div#map {
 .map-padding {
     padding-top: 5%;
     padding-bottom: 5%;
-    padding-left: 5%;
+    padding-left: 45px;
 }
 
 /* ///-------------------MAPS */
