@@ -72,18 +72,18 @@ using a hamburger on mobile screen versions.
 
 ### Skeleton Plane
 - Mobile Screen
-    - ![alt](wireframes/)
+    - ![alt](wireframes/ms2.edmfestivalseu.mobile.png)
 - Tablet Screen
-    - ![alt](wireframes/)
+    - ![alt](wireframes/ms2.edmfestivalseu.tablet.png)
 - Desktop Screen
-    - ![alt](wireframes/)
+    - ![alt](wireframes/ms2.edmfestivalseu.desktop.png)
 
 ### Surface Plane
 This website aims to give a festival lights feeling.
 Creative design has been applied in order to adapt to this look and feel.
  
 - Colors: 
-- Fonts: 
+- Fonts: Chakra Petch and 
 - Images
     - The Hero image aims to set the color palette of the website and give a festival crowd feeling.
     - Country images aim to allow the user to identify hich country is going to be selected..
