@@ -122,14 +122,41 @@ Creative design has been applied in order to adapt to this look and feel.
 ## Testing
 ### W3C Markup Validator and W3C CSS Validator
 - W3C Markup Validator
-    - ![alt](readme-images/w3c-markup-validator.png)
+    - ![alt](readme-images/w3c-markup-validator.JPG)
 - W3C CSS Validator
-    - ![alt](readme-images/w3c-css-validator.png)
+    - ![alt](readme-images/w3c-css-validator.JPG)
 - Jshint JavaScript Validator
-    - ![alt](readme-images/maps-js-validator.png)
-    - ![alt](readme-images/script-js-validation.png)
-    - ![alt](readme-images/email-js-validation.png)
+    - ![alt](readme-images/maps-js-validator.JPG)
+    - ![alt](readme-images/script-js-validation.JPG)
+    - ![alt](readme-images/email-js-validation.JPG)
 
 
 ### Lighthouse Chrome Developer Tools
-![alt](readme-images/lighthouse.png)
+![alt](readme-images/lighthouse.JPG)
+
+### Testing User Stories
+##### As a First Time Visitor, I want to...
+- Easily understand the content in order to find the information I'm looking for.
+    - Webpage is well structured and sections are presented clearly to the user.
+![alt](readme-images/hero-header.png)
+![alt](readme-images/countries-section.png)
+![alt](readme-images/footer.png)
+- Easily navigate and find content through the website in an user-friendly way.
+    - Navigation bar allows user to move through different sections of the website.
+![alt](readme-images/nav-bar.png)
+- Find visual resources that support and complement the content.
+    - Images are displayed to support text.
+![alt](readme-images/festival-card.png)
+- Have the possibility to get in touch with EDMfestivalsEU and have access to their Social Media links.
+    - Get in touch page accessible from navigation bar.
+![alt](readme-images/nav-bar.png)
+
+##### As a Returning Visitor, I want to...
+- Find the familiar interface and layout which I already experienced.
+    - Layout is easy to understand, user friendly and intuitive.
+
+### Further testing
+- The Website has been tested in all different screen devices from Google Developer Tools.
+- The Website has been viewed on a variety of devices and screen sizes.
+- The Website has been tested on Google Chrome, Internet Explorer, Safari and Microsoft Edge.
+- All links have been tested
