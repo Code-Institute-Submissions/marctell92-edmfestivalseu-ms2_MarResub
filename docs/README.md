@@ -47,7 +47,7 @@ We've used the below table to consider which features was worth adding, consider
 importance and the viability of implementing them. The ones highlighted in red were left on the side 
 to be considered in the future.
 
-![alt](readme-images/)
+![alt](readme-images/features.JPG)
 
 ### Scope Plane
 
@@ -82,8 +82,39 @@ using a hamburger on mobile screen versions.
 This website aims to give a festival lights feeling.
 Creative design has been applied in order to adapt to this look and feel.
  
-- Colors: 
-- Fonts: Chakra Petch and 
+- Colors: #4e1f32, #e78ba8, #dedede
+- Fonts: Chakra Petch and Bai Jamjuree
 - Images
     - The Hero image aims to set the color palette of the website and give a festival crowd feeling.
-    - Country images aim to allow the user to identify hich country is going to be selected..
+    - Country images aim to allow the user to identify hich country is going to be selected.
+    - Festival images aim to reflect the ambience on each festival.
+
+    ## Features
+### Existing Features
+- Responsive on all devices: allows the user to navigate comfortably on the page regardless of the device type used.
+- Navigation Bar and hamburger: allows the user to navigate through the web sections and pages with ease.
+- Countries section: allows the user to interactively search festivals by country.
+- "Get in touch" form: allows the user to contact with EDMfestivalsEU.
+- Map: allows user to locate each festival.
+- Footer: allows users to access the different social media channels of EDMfestivalsEU.
+
+### Features Left to Implement
+- Other languages page version.
+- "Subscribe to Newsletter" submission form on a separate page.
+- Video section of festivals
+- Iframe with the last Instagram posts by Elsewhere. 
+
+## Technologies Used
+### Languages
+- HTML5
+- CSS3
+- Javascript
+
+### Frameworks, Libraries & Programs Used
+- [Github](https://github.com/): used to store the projects code.
+- [Gitpod](https://gitpod.io/workspaces): used for version control.
+- [Bootstrap v5.0.0.](https://getbootstrap.com/docs/5.0/getting-started/introduction/): used to assist with the responsiveness and styling of the website.
+- [Balsamiq](https://balsamiq.com/): used for wireframe design.
+- [jQuery v3.5.1](https://jquery.com/): used to implement interactivity on the page.
+- [Google Maps API](https://developers.google.com/maps): used to render map with festival locations.
+- [EmailJS](https://www.emailjs.com/): used to connect "Get in touch form" with email.
