@@ -118,3 +118,18 @@ Creative design has been applied in order to adapt to this look and feel.
 - [jQuery v3.5.1](https://jquery.com/): used to implement interactivity on the page.
 - [Google Maps API](https://developers.google.com/maps): used to render map with festival locations.
 - [EmailJS](https://www.emailjs.com/): used to connect "Get in touch form" with email.
+
+## Testing
+### W3C Markup Validator and W3C CSS Validator
+- W3C Markup Validator
+    - ![alt](readme-images/w3c-markup-validator.png)
+- W3C CSS Validator
+    - ![alt](readme-images/w3c-css-validator.png)
+- Jshint JavaScript Validator
+    - ![alt](readme-images/maps-js-validator.png)
+    - ![alt](readme-images/script-js-validation.png)
+    - ![alt](readme-images/email-js-validation.png)
+
+
+### Lighthouse Chrome Developer Tools
+![alt](readme-images/lighthouse.png)
