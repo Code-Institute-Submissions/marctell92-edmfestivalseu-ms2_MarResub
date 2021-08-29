@@ -1,8 +1,8 @@
 # EDMfestivalsEU
 
-![alt](readme-images/)
+![alt](readme-images/am-i-responsive.JPG)
 
-[Visit site here](https://marctell92.github.io/)
+[Visit site here](https://marctell92.github.io/https://marctell92.github.io/edmfestivalseu-ms2/)
 
 
 This website offers basic information about the main EDM festivals around Europe such as the location, dates and artists. It aims to be a guide to all Electronic Dance Music fans who are in search of the main events in the continent.
