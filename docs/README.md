@@ -212,3 +212,17 @@ $ git clone https://github.com/marctell92/boundless
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
 ```
+
+## Credits
+- All code has strong inspiration from all learning material given by Code Institute.
+- Multiple pieces of code have been taken from Bootstrap Library and modified to fit the design needs.
+
+### Content
+- README.md was strongly inspired by the Sample README from user lechien73 on GitHub, sample given by the Code Institute Mentor Team.
+- Deployment section of the README.md was copied from the above mentioned Sample README.
+
+### Media
+- All images were obtained via Google Images, using the Usage Rights toold to make sure all of them had Creative Commons licenses.
+
+### Acknowledgements
+- Code Institue Tutor Support and Mentor Team. 
