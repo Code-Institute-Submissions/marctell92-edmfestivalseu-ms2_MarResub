@@ -168,6 +168,7 @@ Creative design has been applied in order to adapt to this look and feel.
 Many bugs were encountered on the way. The majority of them were fixed with the help of the Slack Code Institute community and Stack Overflow community. Some of the most challenging bugs were:
 - On mobile screen, hamburger icon expands when clicked, but will not go to its original state when clicked again: fixed by removing doubled bootstrap.js script.
 - Images making the page overflow on small screen devices: fixed structure of divs and apply position attributes with the help of Google Developer Tools.
+- Map not loading. Enabled Maps Javascriprt and upgraded the Cloud account.
 
 ## Deployment
 ### GitHub Pages
